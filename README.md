@@ -79,3 +79,15 @@ print(type(g))
 
 ```
 
+# standard library
+
+![alt text](image.png)
+---
+- difference between functions and methods
+
+![alt text](image-1.png)
+
+## Data type
+
+![alt text](image-2.png)
+
