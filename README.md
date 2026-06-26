@@ -91,3 +91,5 @@ print(type(g))
 
 ![alt text](image-2.png)
 
+# String
+![alt text](image-3.png)
