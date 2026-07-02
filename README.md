@@ -93,3 +93,6 @@ print(type(g))
 
 # String
 ![alt text](image-3.png)
+
+# Numeric
+![alt text](image-4.png)
