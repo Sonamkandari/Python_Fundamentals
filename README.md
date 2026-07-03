@@ -96,3 +96,11 @@ print(type(g))
 
 # Numeric
 ![alt text](image-4.png)
+
+# Comparison Operators
+![alt text](image-5.png)
+
+# Logical Operator
+![alt text](image-6.png)
+---
+![alt text](image-7.png)
