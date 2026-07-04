@@ -104,3 +104,9 @@ print(type(g))
 ![alt text](image-6.png)
 ---
 ![alt text](image-7.png)
+
+# Loops in python
+![alt text](image-8.png)
+
+# Real world applications of loops 
+![alt text](image-9.png)
