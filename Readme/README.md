@@ -123,3 +123,11 @@ print(type(g))
 
 ---
 ![alt text](image-13.png)
+
+---
+# How to Analyze and check list 
+![alt text](image-14.png)
+---
+# Tools / Functions / Methods
+![alt text](image-15.png)
+---
