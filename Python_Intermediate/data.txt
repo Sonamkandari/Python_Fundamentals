@@ -1,4 +1,0 @@
-this is my first code of working with files using pythons:
-second line:Yellow Moon: 
-Third line:Blue Moon:
-last Line:Red Moon:

@@ -131,3 +131,5 @@ print(type(g))
 # Tools / Functions / Methods
 ![alt text](image-15.png)
 ---
+# adding something in the sub-list
+![alt text](image-16.png)
