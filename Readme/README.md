@@ -133,3 +133,6 @@ print(type(g))
 ---
 # adding something in the sub-list
 ![alt text](image-16.png)
+
+# All different ways how to combine your data
+![alt text](image-17.png)
