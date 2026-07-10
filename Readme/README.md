@@ -136,3 +136,9 @@ print(type(g))
 
 # All different ways how to combine your data
 ![alt text](image-17.png)
+
+# why do we need iterator
+![alt text](image-18.png)
+
+# Iterator vs iterable
+![alt text](image-19.png)
