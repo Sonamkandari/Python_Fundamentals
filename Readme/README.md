@@ -142,3 +142,6 @@ print(type(g))
 
 # Iterator vs iterable
 ![alt text](image-19.png)
+
+# Lambda Functions
+![alt text](image-20.png)
