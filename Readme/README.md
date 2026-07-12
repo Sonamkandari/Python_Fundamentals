@@ -145,3 +145,9 @@ print(type(g))
 
 # Lambda Functions
 ![alt text](image-20.png)
+---
+![alt text](image-21.png) 
+
+---
+# Filtering and transforming data
+![alt text](image-22.png)
