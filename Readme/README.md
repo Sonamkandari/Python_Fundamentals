@@ -151,3 +151,7 @@ print(type(g))
 ---
 # Filtering and transforming data
 ![alt text](image-22.png)
+
+# properties of all three data structures in python
+
+![alt text](image-23.png)
