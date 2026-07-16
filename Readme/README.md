@@ -151,17 +151,29 @@ print(type(g))
 ---
 # Filtering and transforming data
 ![alt text](image-22.png)
-
+---
 # Mathematical operations in sets
-
+---
 ![alt text](image-24.png)
-
+---
 # Dictionaries 
 ![alt text](image-25.png)
-
+---
 # properties of all four data structures in python
-
+---
 ![alt text](image-26.png)
-
+---
 # full big picture about dictionaries
 ![alt text](image-27.png)
+---
+# Sources of functions
+![alt text](image-29.png)
+---
+# Rule
+![alt text](image-30.png)
+
+---
+# Parameters vs Arguments and function calls
+
+![alt text](image-31.png)
+---
