@@ -152,6 +152,16 @@ print(type(g))
 # Filtering and transforming data
 ![alt text](image-22.png)
 
-# properties of all three data structures in python
+# Mathematical operations in sets
 
-![alt text](image-23.png)
+![alt text](image-24.png)
+
+# Dictionaries 
+![alt text](image-25.png)
+
+# properties of all four data structures in python
+
+![alt text](image-26.png)
+
+# full big picture about dictionaries
+![alt text](image-27.png)
