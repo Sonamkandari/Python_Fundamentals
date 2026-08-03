@@ -594,23 +594,5 @@ A deep copy creates a completely independent copy of an object, including all ne
 
 # ⭐ Top 15 Questions You Must Answer Perfectly
 
-These are the ones interviewers ask most often:
 
-1. What is Python?
-2. Why is Python dynamically typed?
-3. Mutable vs Immutable?
-4. List vs Tuple?
-5. `==` vs `is`?
-6. `print()` vs `return()`?
-7. `for` vs `while`?
-8. `break` vs `continue` vs `pass`?
-9. Parameter vs Argument?
-10. What is Recursion?
-11. What is Exception Handling?
-12. What is a Generator?
-13. `yield` vs `return`?
-14. What is a Decorator?
-15. Shallow Copy vs Deep Copy?
-
----
 
