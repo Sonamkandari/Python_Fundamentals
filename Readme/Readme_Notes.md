@@ -593,6 +593,8 @@ A deep copy creates a completely independent copy of an object, including all ne
 ---
 
 ```
+# Notes : 
+# https://www.interviewbit.com/python-interview-questions/
 # typing refers to type-checking in programming languages
 -  python is a strongly types language 
 -  In a strongly-typed language, such as Python, "1" + 2 will result in a type error since these languages don't allow for "type-coercion" (implicit conversion of data types). 
@@ -616,7 +618,71 @@ A deep copy creates a completely independent copy of an object, including all ne
 
 # what is  scope in python ?
 - Every object in python functions with in a scope. - A scope is a block of code where an object in Python remains relevant 
+- Local Scope : Local scope refers to the local objects available in the current functions
+- Global Scope : A global scope refers to the objects available through out the code execution since their inception
 
+- Module- level scope:A module level scope Refers to the global objects of the current module accessible in the program
+- 
+- Note: Local scope objects can be synced with global scope objects using keywords such as global.
+
+# What are lists and tuples ? what is the key difference between the  two ?
+- List and tuples are both sequence data types that can store a collection of objects in python 
+
+- Lists represented with square brackets, while tuples while tuples are represented with parentheses
+- The key difference between both are list are mutable objects and tuples are immutable objects
+
+# what is pass in python ?
+- The pass keyword represents a null operation in Python. It is generally used for the purpose of filling up empty blocks of code which may execute during run time but has yet to be return 
+
+# what are modules and packages in python ?
+- Python packages and python modules are two mechanisms that allow for *modular programming* in python
+- Modular programming is a software design technique that breaks a large computer program into separate, independent pieces called modules.
+
+- Advantages of Modular programming is:
+- Simplicity
+- Maintainability
+- Reusability
+- Scoping
+
+# Packages : Packages allow for hierarchial structuring of the module namespace using dot notation. As, modules help avoid clashes between global variable names, in a similar manner, packages help avoid clashes between module names.
+
+# what is the use of self in python ?
+- Self is used to represent the object or instance of the class
+- with using this keyword we can access the attributes and methods of the class in python
+- self keyword binds the attributes with the given arguments
+
+# what is __init__?
+- __init__ is a constructor method in python and is automatically called to allocate memory when a new object/instance is created .
+- constructor helps in distinguishing methods and attributes of a class from local variable
+
+# what are unit tests in python?
+- A Unit test  is a unit testing framework of python
+- Unit testing means testing different components of software separately 
+# why unit testing is important ?
+- Imagine a scenario, you are building software that uses three components namely A, B, and C. Now, suppose your software breaks at a point time. How will you find which component was responsible for breaking the software? Maybe it was component A that failed, which in turn failed component B, and this actually failed the software. There can be many such combinations.
+This is why it is necessary to test each and every component properly so that we know which component might be highly responsible for the failure of the software
+
+# How memory is managed in python?
+-> Memory management in python is handled by PMM (python memory manager). The memory allocated by the manager is in the form of private heap space dedicated to python 
+- All python objects are stored in this heap and being private, it is inaccessible to the programmer.
+python does provide some core API functions to work upon the private heap space
+
+# Python ,has an built in garbage collection to recycle the unused memory for the private heap space
+
+
+# What are decorators in python ?
+- Decorators in python are essentially functions that add functionality  to an existing function in python without changing the structure of the function itself 
+- they are represented the @decorator_name in python and are called in a bottom-up fashion
+
+# what is lambda in python ? why it is used ?
+- Lambda functions are small anonymous functions that do not have a formal name . They let you write a quick custom logic inline without using a standard function definition keyword
+
+# How  do you copy an object in python ?
+- In python, the assignment (= operator ) does not copy objects .Instead it creates a binding between the existing object and target variable name.
+
+- To create copies of an object in Python, we need to use copy module.
+
+- there are two ways of  creating copies for given object using the copy module. 
 ```
 
 
