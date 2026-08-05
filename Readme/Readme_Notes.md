@@ -592,7 +592,33 @@ A deep copy creates a completely independent copy of an object, including all ne
 
 ---
 
-# ⭐ Top 15 Questions You Must Answer Perfectly
+```
+# typing refers to type-checking in programming languages
+-  python is a strongly types language 
+-  In a strongly-typed language, such as Python, "1" + 2 will result in a type error since these languages don't allow for "type-coercion" (implicit conversion of data types). 
+-  On the other hand, a weakly-typed language, such as Javascript, will simply output "12" as result.
+
+# Type-checking can be done at two stages 
+
+- Static : Data types are checked before execution
+- Dynamic : Data types are checked during execution
+
+# what is an interpreted language ?
+- Interpreted language  executes its statements line by line. languages like python, java script, R , PHP and Ruby are prime examples of interpreted languages 
+- Programs written in an interpreted  language runs directly from the source code, with no intermediary compilation step
+
+- where as java is a hybrid language that is both complied and interpreted 
+
+# what is PEP * and why it is important ?
+- PEP stands for python enhancement proposal. 
+- A python enhancement proposal is an official design document providing information to python community 
+-  PEP 8 is especially important since it documents the style guidelines for Python Code.
+
+# what is  scope in python ?
+- Every object in python functions with in a scope. - A scope is a block of code where an object in Python remains relevant 
+
+```
+
 
 
 
